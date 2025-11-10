@@ -1,6 +1,5 @@
 const users = [
-    {
-        id: '1', name: 'Alice', age: 30, email: 'i@a.com' },
+    {id: '1', name: 'Alice', age: 30, email: 'i@a.com' },
     { id: '2', name: 'Bob', age: 20, email: 'i@b.com' }
 ];
 
